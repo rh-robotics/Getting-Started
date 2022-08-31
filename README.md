@@ -1,5 +1,5 @@
-<h1 align="center">Bidrar (Contributing)</h1>
-Hello, new (or returning developer)! To facilitate the smooth development of our project, we have taken numerous steps to ensure code quality and lower the probability of merge conflicts (when code you wrote clashes with another person's code).
+<h1 align="center">Välkommen (Welcome)</h1>
+Hello, new (or returning developer)! To facilitate the smooth development of our project, please take a look at the instructions below.
 
 <br>
 
