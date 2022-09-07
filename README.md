@@ -1,6 +1,6 @@
 <h1 align="center">Välkommen (Welcome)</h1>
 Hello, new (or returning developer)! To facilitate the smooth development of our project, please take a look at the instructions below.
-
+skill issue- love omar
 <br>
 
 <details>
